@@ -1,0 +1,92 @@
+StackPane{
+    -fx-background-color: rgb(155, 113, 68) ;
+}
+
+#Kalkulator_Sederhana{
+    -fx-fill: white ; /* untu warna tulisan */
+    -fx-font-family: "verdana"; /* untuk model / font tulisan */
+    -fx-font-size: 20px; /* untuk ukuran tulisan */
+}
+
+#Mulai {
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 100px; /* untuk panjang kolom teks  */
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
+
+#Menu_Utama{
+    -fx-fill:white;
+    -fx-font-family:"verdana";
+    -fx-font-size:20px;   
+}
+
+#trigonometry{
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 200px; /* untuk panjang kolom teks  */
+    -fx-max-height: 200px; /* untuk lebar kolom teks*/
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
+
+#conversion {
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 210px; /* untuk panjang kolom teks  */
+    -fx-max-height: 210px; /* untuk lebar kolom teks*/
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
+
+#calculator {
+    -fx-fill: black;
+    -fx-font-family:"verdana";
+    -fx-font-size:20px; 
+}
+
+#calculatorInput {
+    -fx-max-width: 100px; /* untuk panjang kolom teks  */
+    -fx-max-height: 100px; /* untuk lebar kolom teks*/   
+}
+
+Label {
+    -fx-text-fill :white;  
+}
+
+#Clear {
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 100px; /* untuk panjang kolom teks  */
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
+
+#calculate {
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 100px; /* untuk panjang kolom teks  */
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
+
+#menu {
+    -fx-background-color: black; /* untuk warna background kolom tulisan */
+    -fx-text-fill: white; /* untuk warna tulisan */
+    -fx-font-family: "verdana"; /* untuk font */
+    -fx-font-size: 12px; /* untuk ukuran font */
+    -fx-max-width: 150px; /* untuk panjang kolom teks  */
+    -fx-padding: 10px; 
+    -fx-background-radius: 4px; /* untuk melengkungkan ujung gambar */ 
+}
